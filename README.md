@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ELECTRONIC CIRCUITS**
 
-- 📫 How to reach me **shivam.kumar2023b@vitstudent.ac.in**
+- 📫 How to reach me **shivam.raj2023@vitstudent.ac.in**
 
 - ⚡ Fun fact **I think I'm Curious 'bout Robotics**
 
