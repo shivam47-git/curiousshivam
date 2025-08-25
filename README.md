@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Learning Python**
 
-- 🤝 I’m looking for help with **Consuming Topics**
-
 - 💬 Ask me about **ELECTRONIC CIRCUITS**
 
 - 📫 How to reach me **shivam.raj2023@vitstudent.ac.in**
